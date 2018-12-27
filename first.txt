@@ -4,3 +4,4 @@ hoge hoge
 /git commit
 
 second.txtの追加と削除
+/git status
