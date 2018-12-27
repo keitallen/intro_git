@@ -2,3 +2,5 @@ git 教育用
 hoge hoge
 /git add
 /git commit
+
+second.txtの追加と削除
