@@ -1,2 +1,4 @@
 git 教育用
 hoge hoge
+/git add
+/git commit
