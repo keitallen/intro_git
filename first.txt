@@ -5,3 +5,4 @@ hoge hoge
 
 second.txtの追加と削除
 /git status
+/git diff
